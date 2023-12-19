@@ -1,7 +1,7 @@
 rancherTurtles:
-  image: controller
-  imageVersion: v0.0.0
-  imagePullPolicy: Never
+  image: registry.rancher.com/rancher/rancher-sandbox/rancher-turtles
+  tag: v0.3.0
+  imagePullPolicy: IfNotPresent
   namespace: rancher-turtles-system
   managerArguments: []
   imagePullSecrets: []
