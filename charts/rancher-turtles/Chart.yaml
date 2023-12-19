@@ -4,7 +4,7 @@ type: application
 version: 0.0.0
 appVersion: "0.0.0"
 description: Rancher Turtles is a extension to Rancher that brings full Cluster API integration to Rancher.
-home: https://github.com/rancher-sandbox/rancher-turtles/
+home: https://github.com/qiang1981cn/rancher-turtles/
 icon: https://raw.githubusercontent.com/rancher-sandbox/rancher-turtles/main/logos/capi.svg
 keywords:
 - rancher
